@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StockMarketWatch</string>
+    <string name="TickerName">Search by Stock Ticker</string>
+    <string name="Search">Search</string>
+    <string name="fetchedTicker"></string>
+    <string name="fetchedPrice"></string>
+    <string name="fetchedChange"></string>
+</resources>
